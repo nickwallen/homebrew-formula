@@ -1,7 +1,4 @@
-# Documentation: https://docs.brew.sh/Formula-Cookbook
-#                https://rubydoc.brew.sh/Formula
-# PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
-class HelmAtDex < Formula
+class HelmATdex < Formula
   desc "The Kubernetes Package Manager"
   homepage "https://helm.sh"
   url "https://github.com/helm/helm/archive/v2.15.2.tar.gz"
